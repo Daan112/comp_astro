@@ -1,9 +1,20 @@
+
 # print ´a lot of kaas´
 #
 # print ´this is a change´
 
+print 'a lot of kaas'
+
+print 'this is a change'
+
+
+
+print "I edited your file. Moahahahahha!!!"
+
+print 'too bad!'
 
 print "I edited dddd your file. Moahahahahha!!!"
+
 
 print ''
 
@@ -30,3 +41,7 @@ Your it to gave life whom as. Favourable dissimilar resolution led for and had. 
 
 
 """
+=======
+print 'dddddd'
+
+>>>>>>> d41d023ef27f5d115a8affb6da25d16b05a63f82
